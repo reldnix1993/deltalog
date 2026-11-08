@@ -1,11 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.5",
-  "apk": "https://github.com/reldnix1993/deltalog/releases/download/v1.5/DeltaLog-1.5.apk",
+  "versionCode": 13,
+  "versionName": "1.6",
+  "apk": "https://github.com/reldnix1993/deltalog/releases/download/v1.6/DeltaLog-1.6.apk",
   "notes": [
+    "새 사이트 주소로 업데이트 확인",
     "횟수·시간만 기록하는 운동은 무게 칸 없이 기록",
-    "풀업·딥스는 추가 중량, 어시스트 머신은 보조 무게로 기록",
-    "직접 추가한 운동도 기록 방식 선택 가능",
-    "새 버전이 나오면 앱에서 알려줌"
+    "풀업·딥스는 추가 중량, 어시스트 머신은 보조 무게로 기록"
   ]
 }
