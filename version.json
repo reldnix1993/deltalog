@@ -1,10 +1,12 @@
 {
-  "versionCode": 13,
-  "versionName": "1.6",
-  "apk": "https://github.com/reldnix1993/deltalog/releases/download/v1.6/DeltaLog-1.6.apk",
+  "versionCode": 15,
+  "versionName": "1.8",
+  "apk": "https://github.com/reldnix1993/deltalog/releases/download/v1.8/DeltaLog-1.8.apk",
   "notes": [
-    "새 사이트 주소로 업데이트 확인",
-    "횟수·시간만 기록하는 운동은 무게 칸 없이 기록",
-    "풀업·딥스는 추가 중량, 어시스트 머신은 보조 무게로 기록"
+    "⚠️ 새 앱으로 따로 설치돼요. 설치 전에 설정 › 데이터 백업 › 내보내기를 먼저 해 주세요",
+    "새 앱에서 '백업 가져오기'로 기록을 옮길 수 있어요",
+    "푸시업·스쿼트 등 맨몸 운동, 수평 레그프레스 추가",
+    "다크 모드, 맨몸 운동 주간 횟수 그래프",
+    "알림바 운동 시간 수정, 휴식 알림음 박자 개선"
   ]
 }
